@@ -1,0 +1,19 @@
++++BEGIN
+Path: index.html
+
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blah</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    ...
+    <script src="js/script.js"></script>
+</body>
+</html>
+```
++++END
